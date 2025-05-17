@@ -3,3 +3,5 @@
 LCMS template code for the practice
 
 Read the [PDF description wit the requirements](https://website-name.com)
+
+This proyect has been develop by: Amalia Rial, Marta Diez, María Sevilla and Lorena Cano.
